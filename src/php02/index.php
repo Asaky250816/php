@@ -16,5 +16,11 @@
                 </a>
         </div>
     </header>
+    <main>
+        <div class="search__content">
+            <div class=search-form__heading>
+                <h2 class="search-form__content-title">日本と正解の時間を比較</h2>
+        </div>
+    </main>
 </body>
 </html>
