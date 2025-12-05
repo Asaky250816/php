@@ -3,17 +3,21 @@
     padding: 60px 15px;
     max-width: 1230px;
 }
+
 .search-form__content-title {
     text-align: center;
 }
+
 .search-form {
     display: flex;
     justify-content: center;
 }
+
 .search-form__item {
     padding: 0 5px;
     width: 300px;
 }
+
 .search-form__item-select {
     padding: 10px;
     width: 100%;
@@ -22,10 +26,12 @@
     border-radius: 3px;
     appearance: none;
 }
+
 .search-form__button {
     padding: 0 5px;
     width: 120px;
 }
+
 .search-form__button-submit {
     padding: 10px;
     width: 100%;
